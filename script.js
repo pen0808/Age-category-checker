@@ -1,7 +1,7 @@
 let age = 100;
 let message = "";
 
-if(age < 0){
+if(age < 0){    
   message = "Please enter a number above 0";
   console.log(message);
 }else if(age <= 17){
